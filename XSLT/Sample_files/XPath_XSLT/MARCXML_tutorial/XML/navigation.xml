@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<records>
+    <record>
+        <author>
+            <surname>Bock</surname>
+            <given>Jerry</given>
+        </author>
+        <title>
+            <non_sorting>The</non_sorting>
+            <title_proper>Apple Tree</title_proper>
+        </title>
+        <publication>
+            <pub_name>Columbia</pub_name>
+            <pub_date>1966</pub_date>
+        </publication>
+    </record>
+    <record>
+        <author>
+            <surname>Lerner</surname>
+            <given>Alan Jay</given>
+            <date>1918-</date>
+        </author>
+        <title>
+            <title_proper>Camelot</title_proper>
+            <subtitle>original London cast soundtrack</subtitle>
+        </title>
+        <publication>
+            <pub_place>North Hollywood, CA</pub_place>
+            <pub_name>Sarabande</pub_name>
+            <pub_date>1982</pub_date>
+        </publication>
+    </record>
+</records>

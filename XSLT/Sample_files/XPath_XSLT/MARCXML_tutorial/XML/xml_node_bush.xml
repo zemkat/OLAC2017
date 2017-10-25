@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<A>
+    <B>
+        <D>
+            <E>text</E>
+            <H>text</H>
+        </D>
+        <G>
+            <T>text</T>
+        </G>
+        <N>
+            <U>text</U>
+            <V>text</V>
+        </N>
+    </B>
+    <C>
+        <F>
+            <Q>text</Q>
+            <R>text</R>
+        </F>
+        <J>
+            <I>text</I>
+            <L>text</L>
+        </J>
+        <P>
+            <O>text</O>
+            <W>text</W>
+        </P>
+    </C>
+    <K>
+        <M>text</M>
+    </K>
+    <S>
+        <X>
+            <AA>text</AA>
+            <BB>text</BB>
+        </X>
+        <Y>
+            <EE>text</EE>
+            <CC>text</CC>
+        </Y>
+        <Z>
+            <FF>text</FF>
+            <DD>text</DD>
+        </Z>
+    </S>
+</A>
